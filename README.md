@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielbyiringiro
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Machine Learning Algorithms
+- 💞️ I’m looking to collaborate on Machine Learning Algorithms and Software Engineering Projects
 - 📫 How to reach me daniel.byiringiro@ashesi.edu.gh
 
 <!---
