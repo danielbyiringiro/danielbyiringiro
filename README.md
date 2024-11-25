@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="https://media.licdn.com/dms/image/v2/D4D03AQHSzuPFg2DF9A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1706261457490?e=1731542400&v=beta&t=e7FFThJ37z5b4MTNg8fDbyQdH_ec5TxefgLWEBDBCdM">
+<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/99030493?v=4">
 <h3> Hey there! I'm Daniel Byiringiro</h3>
 <p>A passionate Fullstack / Backend Developer and Machine Learning Engineer</p>
 <br/>
