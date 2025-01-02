@@ -1,13 +1,11 @@
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/99030493?v=4">
 <h3> Hey there! I'm Daniel Byiringiro</h3>
-<p>A passionate Fullstack / Backend Developer and Machine Learning Engineer</p>
+<p>A passionate Junior Machine Learning Engineer</p>
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🖥 &nbsp; I really like automating things, making humans life easier
-- 💘 &nbsp; My preferred language is Python💎 but I've also used to Java, Javascript, Typescript, C and C++
-- 🛠 &nbsp; Entrepreneuring with my own company 🎯 [One Space](https://one-space.tech)
-- ✍️ &nbsp; Writing my own blog to share things I learn at [dbyiringiro.dev (A work in Progress)]()
+- 💘 &nbsp; My preferred language is Python💎 but I've also built projects using Java, Javascript, Typescript, C and C++
 - 🎓 &nbsp; Computer Science Senior at Ashesi University, Ghana 🇬🇭
 
 <h3> 🛠 &nbsp;Backend Stack</h3>
