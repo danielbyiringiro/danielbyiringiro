@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Daniel+Byiringiro;%F0%9F%A7%92%F0%9F%8F%BB+Machine+Learning+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93+Computer+Science+Senior+%40+Ashesi+University%2C+Ghana" alt="Typing SVG" />
 </a>
 
-### ? I am available for hire.
+### I am available for hire.
 
 ### **[Resume](https://drive.google.com/file/d/1jETQt75ElMV2rRstyntMnaOjVJglciNe/view?usp=sharing)**
 
@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/dbyiri/">
-        <img src="https://img.shields.io/badge/-Richard Quayson-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/-Daniel Byiringiro-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/>
     </a>
     &nbsp; &nbsp; &nbsp;
     <a href="mailto:daniel.byiringiro@ashesi.edu.gh">
