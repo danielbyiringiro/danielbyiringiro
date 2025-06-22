@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://github.com/danielbyiringiro">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Daniel+Byiringiro;%F0%9F%A7%92%F0%9F%8F%BB+Machine+Learning+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93+Computer+Science+Senior+%40+Ashesi+University%2C+Ghana" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Daniel+Byiringiro;%F0%9F%A7%92%F0%9F%8F%BB+Backend+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93%40%2C" alt="Typing SVG" />
 </a>
 
 ### I am available for hire.
@@ -13,9 +13,9 @@
 
 ## About Me
 
-<p> I'm a <b>Junior Machine Learning Engineer</b> with a year of experience building models and APIs in Python (Pytorch, Numpy, Scikit-learn) and integrating them with modern frontend libraries such as Streamlit and Flask. While my primary focus is machine learning, I'm equally decent in frontend engineering and backed engineering and have hands-on experience creating seamless integrations between backend services and user interfaces. </p>
+<p> I'm a <b>Backend Engineer</b> with two years of experience building scalable APIs and server-side applications using PHP, Python (Flask, FastAPI), and Next.js. I have a strong grasp of backend architecture, database design, and API integration, and I’m experienced in creating seamless connections between frontend interfaces and backend services. </p>
 <p>
-    I have interests in <b>Computer Vision</b> and <b>Natural Language Processing</b>. Looking forward to collaborating on any project related in these two primary fields and more.
+     I'm particularly interested in designing clean, maintainable systems that power reliable user experiences. Open to collaborating on impactful backend projects that solve real-world problems. 
 </p>
 
 ## GitHub Analytics
