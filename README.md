@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://github.com/danielbyiringiro">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Daniel+Byiringiro;%F0%9F%A7%92%F0%9F%8F%BB+Backend+Engineer;%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%93%40%2C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&duration=3000&pause=50&vCenter=true&multiline=true&width=1000&height=75&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+I'm+Daniel+Byiringiro;%F0%9F%A7%92%F0%9F%8F%BB+Backend+Engineer;" alt="Typing SVG" />
 </a>
 
 ### I am available for hire.
@@ -60,7 +60,7 @@
 <br>
 
 <p>
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,php,html,css"/>
+    <img src="https://skillicons.dev/icons?i=py,java,php"/>
 </p>
 </details>
 
@@ -70,7 +70,7 @@
 <br>
 
 <p>
-    <img src="https://skillicons.dev/icons?i=next,react,flask,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=next,laravel,flask"/>
 </p>
 </details>
 
@@ -91,25 +91,5 @@
 
 <p>
     <img src="https://skillicons.dev/icons?i=git,github"/>
-</p>
-</details>
-
-<details>
-<summary>More Tools</summary>
-
-<br>
-
-<p>
-    <img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-</details>
-
-<details>
-<summary>IDEs</summary>
-
-<br>
-
-<p>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm"/>
 </p>
 </details>
